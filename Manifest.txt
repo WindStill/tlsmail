@@ -1,5 +1,5 @@
 Rakefile
-README.txt
+README.md
 CHANGELOG.txt
 Manifest.txt
 lib/tlsmail.rb
